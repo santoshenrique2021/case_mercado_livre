@@ -1,2 +1,5 @@
-# case_mercado_livre
-Repositório referente ao case do Mercado Livre
+# Case do Mercado Livre
+
+Repositório referente ao estudo de caso do Mercado Livre.
+
+
